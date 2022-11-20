@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Düzenlemeler için App.js sayfasını kontrol edin...
+          SENİ ÇOK SEVİYORUM BUUSEEEEEMMMMMM
         </p>
         <div>
           <button>1</button>
